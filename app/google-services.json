@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085376951844",
+    "project_id": "orderly-2f693",
+    "storage_bucket": "orderly-2f693.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085376951844:android:65d7268711d402c259cab1",
+        "android_client_info": {
+          "package_name": "com.example.orderly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4lLUaoPrjA3cBxe4Ad0rgTjBaJv5D39U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
