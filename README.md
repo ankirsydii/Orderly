@@ -1,7 +1,7 @@
 # ☕ Orderly POS - Cafe Management System
 
 <p align="center">
-  <img src="link_to_your_logo_purple.png" alt="Orderly Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f4d4e116-a42c-4e49-8529-dcf3678b9b95" alt="Orderly Logo" width="200"/>
 </p>
 
 **Orderly** adalah aplikasi kasir (*Point of Sale*) berbasis Android yang dirancang khusus untuk operasional cafe modern. Dengan antarmuka yang lucu, menarik, dan dominasi warna ungu, Orderly bertujuan untuk mempermudah barista dan pengelola cafe dalam menangani pesanan makanan serta minuman secara lebih efisien.
